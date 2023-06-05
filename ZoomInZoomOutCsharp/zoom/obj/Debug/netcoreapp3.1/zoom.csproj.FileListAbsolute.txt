@@ -1,0 +1,16 @@
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\bin\Debug\netcoreapp3.1\zoom.exe
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\bin\Debug\netcoreapp3.1\zoom.deps.json
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\bin\Debug\netcoreapp3.1\zoom.runtimeconfig.json
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\bin\Debug\netcoreapp3.1\zoom.runtimeconfig.dev.json
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\bin\Debug\netcoreapp3.1\zoom.dll
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\bin\Debug\netcoreapp3.1\zoom.pdb
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.csproj.AssemblyReference.cache
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.Form1.resources
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.csproj.GenerateResource.cache
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.AssemblyInfoInputs.cache
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.AssemblyInfo.cs
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.csproj.CoreCompileInputs.cache
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.dll
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.pdb
+C:\Users\dogan\Desktop\dijitalgoruntucozumleme\zoom\zoom\obj\Debug\netcoreapp3.1\zoom.genruntimeconfig.cache
